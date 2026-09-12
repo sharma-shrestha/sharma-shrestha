@@ -1,6 +1,6 @@
 <h1 align="center">Hey! 👋, I'm Shrestha Sharma</h1>
 
-<h3 align="center">Software Engineer | AI/ML | Agentic AI | Distributed Systems</h3>
+<h3 align="center">Software Engineer | AI/ML | Agentic AI | Backend Systems | Distributed Systems</h3>
 
 <p align="center">
   <a href="https://github.com/sharma-shrestha">
@@ -8,9 +8,6 @@
   </a>
   <a href="https://www.linkedin.com/in/shrestha-sharma-7a44b8287/">
     <img src="https://img.shields.io/badge/LinkedIn-Shrestha%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:shrestha.sharma.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -64,7 +61,7 @@ Data Structures & Algorithms, Object-Oriented Programming, DBMS, Computer Networ
 * 🤖 **Agentic AI & LLM Systems**
 * 🔎 **Retrieval-Augmented Generation**
 * 🧠 **AI Engineering & ML Systems**
-* ⚙️ **Distributed & Backend Systems**
+* ⚙️ **Backend & Distributed Systems**
 * 💳 **Fintech & Payment Infrastructure**
 * ☁️ **Cloud & Developer Infrastructure**
 * 🔄 **Automation & Intelligent Decision Systems**
@@ -84,8 +81,6 @@ Data Structures & Algorithms, Object-Oriented Programming, DBMS, Computer Networ
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shrestha-sharma-7a44b8287/">LinkedIn</a>
-  •
-  <a href="mailto:shrestha.sharma.work@gmail.com">Email</a>
   •
   <a href="https://github.com/sharma-shrestha">GitHub</a>
 </p>
