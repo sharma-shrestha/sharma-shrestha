@@ -1,31 +1,95 @@
-![logo](https://github.com/singh-hub1/singh-hub1/blob/main/github-header-image%20(1).png?raw=true)
-
 <h1 align="center">Hey! 👋, I'm Shrestha Sharma</h1>
-<h3 align="center">A passionate Developer from India.</h3>
 
+<h3 align="center">Software Engineer | AI/ML | Agentic AI | Distributed Systems</h3>
 
-<img align="center" alt="coding" width="500" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<p align="center">
+  <a href="https://github.com/sharma-shrestha">
+    <img src="https://img.shields.io/badge/GitHub-sharma--shrestha-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/shrestha-sharma-7a44b8287/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shrestha%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:shrestha.sharma.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-hub1&label=Profile%20views&color=0e75b6&style=flat" alt="singh-hub1" /> </p>
+### 👨‍💻 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singh-hub1" alt="singh-hub1" /></a> </p>
+Computer Science undergraduate with hands-on experience building **backend applications, AI-powered solutions, machine learning systems, cloud-native software, and distributed systems** through academic and personal projects.
 
+* 🤖 Exploring **LLMs, RAG, Agentic AI, Deep Learning & Reinforcement Learning**
+* ⚙️ Building **backend APIs, distributed systems & event-driven architectures**
+* ☁️ Working with **AWS, Docker, Kubernetes & CI/CD**
+* 💳 Interested in **fintech, payment infrastructure and AI-driven systems**
+* 🚀 Focused on building **scalable, production-oriented software and AI systems**
 
+---
 
-- 🔭 I’m currently working on *Basic of programming skills.*
+## 🛠️ Tech Stack
 
-- 🌱 I’m currently learning *C programming.*
+**Languages:**
+Python, C++, SQL, C
 
-- 👯 I’m looking to collaborate on *Mini-Open Source.*
+**Testing & Quality:**
+Functional Testing, Integration Testing, Regression Testing, API Testing, Debugging, Data Validation
 
-- 👨‍💻 All of my projects are available at ...
+**Backend & APIs:**
+Node.js, Express.js, FastAPI, REST APIs, System Design, GraphQL, Microservices
 
-- 💬 Ask me about *My Coding Journey.*
+**Distributed Systems & Databases:**
+MySQL, PostgreSQL, MongoDB (NoSQL), Redis, Apache Kafka, Elasticsearch
 
-- 📫 How to reach me *shresthash30@gmail.com*
+**ML & Data Analytics:**
+Pandas, NumPy, PyTorch, Scikit-Learn, Power BI, Excel, Data Analysis, Data Transformation, Feature Engineering, Model Evaluation, Reporting, Jupyter Notebook
 
-- ⚡ Fun fact *Still Searching!!!.*
+**Generative AI:**
+LangChain, RAG, Transformers, NLP, Vector Databases, LLMs, LangGraph, Agentic AI, Prompt Engineering, GenAI Tools — ChatGPT, Claude, Copilot
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+**Cloud & DevOps:**
+Linux, AWS, Docker, Bash, Kubernetes, CI/CD, Jenkins, Git, GitHub, Ansible
+
+**Frontend:**
+React.js, HTML, CSS, JavaScript
+
+**CS Fundamentals:**
+Data Structures & Algorithms, Object-Oriented Programming, DBMS, Computer Networks, Operating Systems, SDLC, Analytical Skills, Problem Solving, Communication Skills
+
+---
+
+## 🎯 Areas of Interest
+
+* 🤖 **Agentic AI & LLM Systems**
+* 🔎 **Retrieval-Augmented Generation**
+* 🧠 **AI Engineering & ML Systems**
+* ⚙️ **Distributed & Backend Systems**
+* 💳 **Fintech & Payment Infrastructure**
+* ☁️ **Cloud & Developer Infrastructure**
+* 🔄 **Automation & Intelligent Decision Systems**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharma-shrestha&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-shrestha&layout=compact&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shrestha-sharma-7a44b8287/">LinkedIn</a>
+  •
+  <a href="mailto:shrestha.sharma.work@gmail.com">Email</a>
+  •
+  <a href="https://github.com/sharma-shrestha">GitHub</a>
+</p>
+
+<p align="center">
+  <i>Building intelligent systems that solve real engineering problems.</i>
+</p>
